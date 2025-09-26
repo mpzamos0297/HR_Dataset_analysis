@@ -47,5 +47,9 @@ The project is structured as an end-to-end machine learning pipeline:
 • Provide insights and predictions to support data-driven HR strategies.
 
 
+Database: https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc/data
+
+
+
 ## Approach ✅
 **Data preprocessing → Feature engineering → Model training → Model evaluation → Insights**
